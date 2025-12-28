@@ -4,7 +4,7 @@ This project helps users calculate their Body Mass Index (BMI) based on height a
 
 🚀 Live Demo
 🔗 Website:
-https://prashant-tiwari-sys.github.io/project-2-IBM-calculator/
+https://prashant-tiwari-sys.github.io/project-2-BMI-Calculator/
 
 📌 Features
 📏 Takes height and weight as user input
